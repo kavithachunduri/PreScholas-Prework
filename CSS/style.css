@@ -1,0 +1,54 @@
+        p{ color: purple ;
+			font-size: 14px ;
+            
+        }
+
+        h2{color: red;
+        	text-decoration: underline blue;
+        	text-align: center;
+            
+        }
+        li{
+        	font-style: oblique;
+        }
+        body{
+        	background-color: peachpuff;
+        }
+        a{
+        	color: green;
+        }
+        th{
+        	background-color: lightgreen;
+        }
+        form{
+
+            border-radius: 15px;
+            background-color: grey;
+            padding: 20px;
+            border-style: dotted;
+            font-style: oblique;
+            width: 25%;
+            bottom: 20px;
+            
+        }
+        #myself{
+
+            background-color: powderblue;
+            display: inline;
+        }
+        #div2 a {
+            position: fixed;
+
+            display: inline;
+        }
+        #back {
+            position: relative;
+            left: 50%;
+        }
+        img {
+            position: relative ;
+            left: 35%;
+        }
+        h3{
+            display: inline;
+        }
